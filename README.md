@@ -46,10 +46,21 @@ Para um endereco proprio (lecasadio.com.br), registre em registro.br e aponte no
 - **As fotos sao arquivos**, nao estao coladas dentro do HTML. Para trocar, basta
   substituir o arquivo em `img/fotos/` mantendo o nome e a proporcao 4:5.
 
+## O que o Kevin confirmou
+
+- Antecedencia: uma semana
+- Entrega com taxa, ou retirada sem custo
+- Pagamento: Pix (nao ha sinal — o site chegou a dizer que havia; era invencao)
+- Nao faz sem lactose, sem gluten nem zero acucar
+- Sem pedido minimo para encomenda (so para venda na hora)
+- Preco fora do site, por decisao dele: depende demais do pedido
+- Responde no mesmo dia
+
 ## Falta
 
-- Quatro respostas do FAQ (antecedencia, entrega, pagamento, restricoes) — hoje o
-  site so tem duas perguntas, as que tinham resposta de verdade.
+- Confirmar o horario de atendimento. Ele respondeu "domingo 12h, dias de semana e
+  sabado 18h" — ambiguo. Enquanto nao se confirma, o site nao promete hora, so
+  "resposta no mesmo dia". A frase dizia "em horario comercial" e foi removida:
+  se ele atende as 18h, era mentira.
 - Uma foto do Kevin na cozinha, para a secao "Sobre".
 - Depoimentos de clientes.
-- Decidir se entra preco.
