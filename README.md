@@ -13,6 +13,9 @@ Site da Le Casadio — confeitaria artesanal do Kevin Casadio, no Rio de Janeiro
       le-traco-l.png    o "L" da assinatura, isolado — usado na abertura
       le-traco-e.png    o "e" da assinatura, isolado — idem
       fotos/            as seis fotos da vitrine, cortadas em 4:5 e comprimidas
+      kevin.jpg         o Kevin, para a secao "Sobre" — recortado e aquecido
+                        de leve, porque o original e de luz fluorescente e
+                        puxava pro azul contra o chocolate da pagina
     logo.jpg            o logo original, como o Kevin entregou
     le.png              o "Le" isolado, origem dos dois tracos acima
 
@@ -62,5 +65,8 @@ Para um endereco proprio (lecasadio.com.br), registre em registro.br e aponte no
   sabado 18h" — ambiguo. Enquanto nao se confirma, o site nao promete hora, so
   "resposta no mesmo dia". A frase dizia "em horario comercial" e foi removida:
   se ele atende as 18h, era mentira.
-- Uma foto do Kevin na cozinha, para a secao "Sobre".
-- Depoimentos de clientes.
+- Depoimentos de clientes. Ele nao tem nenhum escrito, mas o elogio existe: os
+  clientes falam da massa no WhatsApp dele. Falta so pedir permissao para usar.
+- Uma foto do Kevin sem o celular na frente do rosto. A atual e selfie de espelho
+  e o telefone tapa metade da cara — na secao que fala em nome dele, nao da para
+  ver quem e. Alguem tirando a foto resolve.

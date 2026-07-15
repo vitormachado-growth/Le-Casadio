@@ -493,7 +493,15 @@
   .step p { font-size: 0.86rem; color: var(--ink-muted); line-height: 1.5; }
 
   /* ── Sobre ────────────────────────────────── */
-  .about { display: grid; grid-template-columns: 1fr; gap: 4rem; align-items: center; max-width: min(62ch, 100%); }
+  .about { display: grid; grid-template-columns: 0.8fr 1fr; gap: 4rem; align-items: center; }
+  .about-foto {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    border-radius: 3px;
+    border: 1px solid rgba(250,237,216,0.08);
+    box-shadow: 0 1px 0 rgba(250,237,216,0.06) inset, 0 18px 38px -18px rgba(0,0,0,0.9);
+  }
   @media (max-width: 900px) { .about { grid-template-columns: 1fr; gap: 2.5rem; } }
   .about-slot {
     aspect-ratio: 4 / 5;
@@ -739,6 +747,7 @@
     .hero-actions .btn { width: auto; }
 
     .about { display: block; }
+    .about-foto { margin-bottom: 2rem; max-width: 320px; }
     .about-copy { align-items: stretch; }
   }
 </style>
@@ -975,6 +984,8 @@
   <div class="shell">
     <section class="sec" id="sobre">
       <div class="about">
+        <img class="about-foto reveal" src="img/kevin.jpg" loading="lazy" decoding="async"
+             alt="Kevin Casadio de dolma branca, na cozinha onde trabalha" />
         <div class="about-copy reveal">
           <span class="caps">Sobre</span>
           <h2>Kevin Casadio, <em>confeiteiro</em></h2>
