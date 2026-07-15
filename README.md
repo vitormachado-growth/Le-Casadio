@@ -65,8 +65,11 @@ Para um endereco proprio (lecasadio.com.br), registre em registro.br e aponte no
   sabado 18h" — ambiguo. Enquanto nao se confirma, o site nao promete hora, so
   "resposta no mesmo dia". A frase dizia "em horario comercial" e foi removida:
   se ele atende as 18h, era mentira.
-- Depoimentos de clientes. Ele nao tem nenhum escrito, mas o elogio existe: os
-  clientes falam da massa no WhatsApp dele. Falta so pedir permissao para usar.
+- Depoimentos de clientes REAIS. O elogio existe — os clientes falam da massa no
+  WhatsApp dele —, falta so pedir permissao para usar. Enquanto isso, a secao
+  "Sobre" tem uma frase dele sobre a massa: e afirmacao do dono sobre o proprio
+  trabalho, nao citacao de terceiro. Sem aspas e sem assinatura de proposito,
+  para nao passar por depoimento.
 - Uma foto do Kevin sem o celular na frente do rosto. A atual e selfie de espelho
   e o telefone tapa metade da cara — na secao que fala em nome dele, nao da para
   ver quem e. Alguem tirando a foto resolve.

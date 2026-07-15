@@ -537,6 +537,18 @@
   .about-copy h2 em { font-style: italic; font-weight: 400; color: var(--gold); }
   .about-copy p { color: var(--ink-muted); max-width: min(48ch, 100%); }
   .about-copy p strong { color: var(--ink); font-weight: 600; }
+  /* Peso de declaracao, nao de citacao: sem aspas, sem aspa decorativa, sem
+     assinatura. Um depoimento pede tudo isso; uma afirmacao do dono, nenhum. */
+  .about-copy .fala-dele {
+    font-family: var(--serif);
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.45;
+    color: var(--ink);
+    border-left: 2px solid var(--gold);
+    padding-left: 1.1rem;
+    max-width: min(40ch, 100%);
+  }
 
   /* ── Depoimentos ──────────────────────────── */
   .quotes { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.4rem; }
@@ -996,8 +1008,13 @@
           <p>
             Nada é produzido para estoque. Cada bolo é montado depois que você pede, com a massa
             feita no dia e o recheio escolhido junto com você. É por isso que a agenda tem limite:
-            <strong>preferimos fazer menos e entregar melhor.</strong>
+            <strong>prefiro fazer menos e entregar melhor.</strong>
           </p>
+          <!-- Afirmacao do Kevin sobre o proprio trabalho, na primeira pessoa —
+               NAO e depoimento. A distincao importa: negocio pode dizer o que
+               quer sobre si; o que nao pode e inventar cliente dizendo. Sem
+               aspas e sem assinatura, justamente para nao passar por citacao. -->
+          <p class="fala-dele">A massa é a parte que mais me elogiam — e é onde eu menos economizo.</p>
           <a class="btn btn-outline" href="https://www.instagram.com/lecasadio" target="_blank" rel="noopener">Ver o trabalho no Instagram</a>
         </div>
       </section>
