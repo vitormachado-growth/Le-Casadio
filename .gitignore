@@ -1,0 +1,9 @@
+# Instaladores e binarios grandes nao pertencem ao repositorio do site
+*.exe
+
+# As fotos originais do celular ficam fora: pesam 1 MB+ cada e o que o site
+# usa sao as versoes cortadas e comprimidas em img/fotos/
+FOTOS COMIDA/
+
+# Arquivos de trabalho
+_*.html
