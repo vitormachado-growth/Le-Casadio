@@ -1,6 +1,6 @@
-# Le Casadio
+# LeCasadio
 
-Site da Le Casadio — confeitaria artesanal do Kevin Casadio, no Rio de Janeiro.
+Site da LeCasadio — confeitaria artesanal do Kevin Casadio, no Rio de Janeiro.
 
 ## O que tem aqui
 
@@ -58,6 +58,12 @@ Para um endereco proprio (lecasadio.com.br), registre em registro.br e aponte no
 - Sem pedido minimo para encomenda (so para venda na hora)
 - Preco fora do site, por decisao dele: depende demais do pedido
 - Responde no mesmo dia
+
+## A historia
+
+A LeCasadio nao comecou em 2022 — comecou na escola, com o Kevin crianca vendendo
+docinho pros colegas. Isso e o que a secao "Sobre" conta agora. Vale mais que
+"confeitaria artesanal desde 2022", que e o que qualquer um escreve.
 
 ## Falta
 
